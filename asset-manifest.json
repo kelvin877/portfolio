@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.096cdabe.js",
+    "static/media/saint_germain.png": "/portfolio/static/media/saint_germain.27befcb765ffe01ecd18.png",
+    "static/media/852kitchen.png": "/portfolio/static/media/852kitchen.e7208ec50bf4cf9d55d4.png",
+    "static/media/movie_web.png": "/portfolio/static/media/movie_web.e2ad72eb8222b73c8bcc.png",
+    "static/media/am1470.png": "/portfolio/static/media/am1470.817cc631a24b5152848d.png",
+    "static/media/crystallvitanmin.png": "/portfolio/static/media/crystallvitanmin.ba2162e48e31877281ef.png",
+    "static/media/icaa_education.png": "/portfolio/static/media/icaa_education.7a4c055897f34f726fbf.png",
+    "static/media/homepage.png": "/portfolio/static/media/homepage.354bd1b34e08432008f2.png",
+    "static/media/gitlab-icon.png": "/portfolio/static/media/gitlab-icon.b0a9846427370c745b81.png",
+    "static/media/threedomkv.jpg": "/portfolio/static/media/threedomkv.e38ef887c355acf730b6.jpg",
+    "static/media/raspberrry-pi-logo.png": "/portfolio/static/media/raspberrry-pi-logo.bd332561b83bcd50a0f7.png",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.096cdabe.js.map": "/portfolio/static/js/main.096cdabe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.096cdabe.js"
+  ]
+}
