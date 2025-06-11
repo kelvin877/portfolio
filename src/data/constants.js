@@ -13,9 +13,7 @@ export const Bio = {
   description: "I am a dedicated and self-driven software engineer with practical expertise in developing full-stack web applications and being part of the Agile teams.",
   github: "https://github.com/kelvin877",
   resume: "https://drive.google.com/file/d/1IeZCK7nURNc0gj_jy_BvAE1d0Jwy1CFD/view?usp=drive_link",
-  linkedin: "http://linkedin.com/in/yat-hei-lee",
-  portfoilo: "https://www.yatheilee.xyz/",
-  portfoiloGame: "https://portfolio-game-three.vercel.app",
+
 };
 
 export const skills = [

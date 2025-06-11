@@ -108,12 +108,7 @@ const Navbar = () => {
               handleScroll('projects')
             }}>Projects</MobileLink>
             {/*  */}
-            <MobileLink href={Bio.portfoiloGame} onClick={() => {
-              setIsOpenMenuBar(!isOpenMenuBar)
-            }}>Portfoilo Game</MobileLink>
-            <MobileLink href={Bio.linkedin} onClick={() => {
-              setIsOpenMenuBar(!isOpenMenuBar)
-            }}>LinkedIn</MobileLink>
+
             <MobileLink href={Bio.github} onClick={() => {
               setIsOpenMenuBar(!isOpenMenuBar)
             }}>GitHub</MobileLink>
