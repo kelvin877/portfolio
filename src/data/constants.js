@@ -308,7 +308,7 @@ export const education = [
       "PHP",
       "Linux"
     ],
-    degree: "Bachelor of Electrical Engineering",
+    degree: "Bachelor of Computer Science",
   },
 ];
 
